@@ -1,0 +1,7 @@
+build/
+__pycache__/
+*.pyc
+*.class
+*.dex
+*.keystore
+.DS_Store
